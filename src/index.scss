@@ -1,0 +1,19 @@
+@import "styles/variable.scss";
+@import "styles/fonts.scss";
+@import "styles/colors.scss";
+@import "styles/common.scss";
+@import "styles/display.scss";
+@import "styles/animation.scss";
+body {
+    font-family: "Avenir Next", "sans-serif";
+}
+
+p {
+    margin: 0;
+}
+
+hr {
+    background-color: #e4e4e4;
+    border: none;
+    height: 0.5px;
+}

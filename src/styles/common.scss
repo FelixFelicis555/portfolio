@@ -1,0 +1,85 @@
+@mixin height($height) {
+    height: $height;
+}
+
+@mixin width($width) {
+    width: $width;
+}
+
+.h {
+    &-100 {
+        @include height(100%);
+    }
+}
+
+.w {
+    &-50 {
+        @include width(50%);
+    }
+    &-100 {
+        @include width(100%);
+    }
+}
+
+.vh {
+    &-30 {
+        @include height(30vh);
+    }
+    &-50 {
+        @include height(50vh);
+    }
+    &-70 {
+        @include height(70vh);
+    }
+    &-100 {
+        @include height(100vh);
+    }
+}
+
+.min-vh {
+    &-30 {
+        min-height: 30vh;
+    }
+    &-50 {
+        min-height: 50vh;
+    }
+    &-70 {
+        min-height: 70vh;
+    }
+    &-100 {
+        min-height: 100vh;
+    }
+}
+
+.p {
+    &-1 {
+        padding: 0.25rem;
+    }
+    &-2 {
+        padding: 0.5rem;
+    }
+    &-3 {
+        padding: 1rem;
+    }
+    &-4 {
+        padding: 1.25rem;
+    }
+}
+
+.mb {
+    &-1 {
+        margin-bottom: 0.25rem;
+    }
+    &-2 {
+        margin-bottom: 0.5rem;
+    }
+    &-3 {
+        margin-bottom: 1rem;
+    }
+    &-4 {
+        margin-bottom: 1.5rem;
+    }
+    &-5 {
+        margin-bottom: 2rem;
+    }
+}

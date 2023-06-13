@@ -1,0 +1,87 @@
+@import "../../../styles/variable.scss";
+$text-color: #a6c8f2;
+.landing-contact-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.landing-contact-heading {
+    text-align: center;
+    color: $text-color;
+    font-size: 16px;
+    width: 100%;
+    display: none;
+    @media (max-width: $breakpoint-mobile) {
+        display: inline;
+    }
+}
+
+.landing-contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    .landing-contact-card {
+        flex: 0 0 25%;
+        padding: 40px 0 40px 0;
+    }
+    @media (min-width: $breakpoint-tablet) and (max-width: $breakpoint-small) {
+        .landing-contact-card {
+            flex: 0 0 33.33%;
+            padding: 25px 0 25px 0;
+        }
+    }
+    @media (min-width: $breakpoint-mobile) and (max-width: $breakpoint-tablet) {
+        .landing-contact-card {
+            flex: 0 0 50%;
+            padding: 25px 0 25px 0;
+        }
+    }
+    @media (max-width: $breakpoint-mobile) {
+        .landing-contact-card {
+            flex: 10 0 50%;
+            padding: 15px 0 15px 0;
+            .text-section {
+                display: none;
+            }
+            img {
+                height: 65px;
+            }
+        }
+    }
+    @media (max-width: $breakpoint-mobile-small) {
+        .landing-contact-card {
+            img {
+                height: 50px;
+            }
+        }
+    }
+}
+
+.landing-contact-card {
+    a {
+        text-decoration: none;
+        color: $text-color;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        transition: ease-in 0.2s all;
+        img {
+            transition: ease-in 0.2s all;
+            filter: brightness(1);
+        }
+        &:hover {
+            color: #b6dcff;
+            transform: scale(1.1);
+            img {
+                filter: brightness(1.1);
+            }
+        }
+        .subtitle {
+            font-size: 13px;
+        }
+        .title {
+            font-weight: 600;
+            font-size: 28px;
+        }
+    }
+}

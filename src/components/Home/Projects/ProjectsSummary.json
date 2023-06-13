@@ -1,0 +1,399 @@
+[{
+        "title": "INDmoney",
+        "shortDesc": "A super money app. which helps the user to track - save - earn on their Investments, Loans, Credit Cards, Expenses, and Tax.",
+        "type": "Corporate",
+        "techTags": [
+            "React",
+            "Redux",
+            "JavaScript",
+            "React Router",
+            "ANTD",
+            "BootStrap"
+        ],
+        "image": "INDwealth.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://www.indwealth.in/"
+            },
+            "secondary": null
+        }
+    },
+    {
+        "title": "Mitchell Cloud Estimating",
+        "shortDesc": "Estimating software for collision & auto body repair. The freedom to write an estimate anywhere, anytime, on any device.",
+        "type": "Corporate",
+        "techTags": [
+            "React",
+            "Angular 1.x",
+            "Typescript",
+            "Material IO"
+        ],
+        "image": "mce.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://repaircenter.mymitchell.com/connect/account/#/login"
+            },
+            "secondary": {
+                "title": "Read More",
+                "navlink": "https://www.mitchell.com/products-services/collision-repair-shop-solutions/cloud-estimating"
+            }
+        }
+    },
+    {
+        "title": "Trello Mock",
+        "shortDesc": "Trello is used to keep track of tasks in Agile Process and features such that Add Cards, Add List, Edit existing Card, Create New Board, Save Existing Board.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material"
+        ],
+        "image": "trello.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://umangg21.github.io/trello-mock/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/umangg21/trello-mock"
+            }
+        }
+    },
+    {
+        "title": "Image Carousel",
+        "shortDesc": "This a an example of Image Carousel build in React. It has a fuctionality of previewing images in modal, navigation control and uploading images in carousel.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Javascript",
+            "HTML",
+            "SASS"
+        ],
+        "image": "image-carousel.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://felixfelicis555.github.io/image-carousel/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/image-carousel"
+            }
+        }
+    },
+    {
+        "title": "Contact Manager",
+        "shortDesc": "This app is used to load contacts from social platforms and organize the contacts by assigning a relationship to each contact so that the user can identify contacts easily in Phone Book.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material"
+        ],
+        "image": "contact_manager.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://umangg21.github.io/contact-manager/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/contact-manager"
+            }
+        }
+    },
+    {
+        "title": "Instagram Mock",
+        "shortDesc": "Instagram Mock is having many features such that Edit Profile, New Post, Delete Existing Post, Image Viewer, Like, and Comment.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Axios"
+        ],
+        "image": "Instagram.jpg",
+        "cta": {
+            "primary": {
+                "title": "View",
+                "navlink": "https://felixfelicis555.github.io/instagram-mock/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/instagram-mock"
+            }
+        }
+    },
+    {
+        "title": "Github User",
+        "shortDesc": "Github Users Search UI App is used to search users on GitHub using https://developer.github.com/v3 API. User Info and Repositories of a user can be viewed on the User Profile Page.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Axios"
+        ],
+        "image": "github.jpg",
+        "cta": {
+            "primary": {
+                "title": "Search",
+                "navlink": "https://felixfelicis555.github.io/Github-User/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/Github-User"
+            }
+        }
+    },
+    {
+        "title": "Finding Falcone",
+        "shortDesc": "Finding Falcone is a game build on the planet of Lengaburu.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Fetch",
+            "Enzyme",
+            "Emotion"
+        ],
+        "image": "falcony.jpg",
+        "cta": {
+            "primary": {
+                "title": "Play",
+                "navlink": "https://umangg21.github.io/finding-falcone/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/umangg21/finding-falcone"
+            }
+        }
+    },
+    {
+        "title": "15 Puzzle Game",
+        "shortDesc": "The 15-puzzle is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Fetch",
+            "Enzyme",
+            "Emotion"
+        ],
+        "image": "15puzzle2.jpg",
+        "cta": {
+            "primary": {
+                "title": "Play",
+                "navlink": "https://umangg21.github.io/puzzle-game/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/umangg21/puzzle-game"
+            }
+        }
+    },
+    {
+        "title": "RSS Feed",
+        "shortDesc": "RSS Feed App is used to display the RSS Feeds in an organized way",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Fetch",
+            "Enzyme",
+            "Emotion"
+        ],
+        "image": "rssfeed.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://felixfelicis555.github.io/rss-feed/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/rss-feed"
+            }
+        }
+    },
+    {
+        "title": "Mutual Fund App",
+        "shortDesc": "Mutual Fund App is used to display Rating, 1-year returns, AUM, Expense Ratio of various funds.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Typescipt",
+            "Material",
+            "Fetch",
+            "Enzyme",
+            "Infinite Loader"
+        ],
+        "image": "mutual-fund2.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://felixfelicis555.github.io/mutual-funds/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/mutual-funds"
+            }
+        }
+    },
+    {
+        "title": "GIF Search",
+        "shortDesc": "This app is used to search GIFs using Giphy Developer API's available on - ​https://developers.giphy.com.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Material",
+            "Fetch",
+            "Giphy"
+        ],
+        "image": "GIFted.jpg",
+        "cta": {
+            "primary": {
+                "title": "Search",
+                "navlink": "https://felixfelicis555.github.io/Gifted-Search/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/Gifted-Search"
+            }
+        }
+    },
+    {
+        "title": "Portfolio Comparison",
+        "shortDesc": "Portfolio Comparison app is used to compare the performance history and growth of various portfolios.",
+        "type": "Proof of Concepts",
+        "techTags": [
+            "React",
+            "Recharts",
+            "BootStrap",
+            "dayjs"
+        ],
+        "image": "compare-portfolio.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://umangg21.github.io/portfolio-comparison/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/umangg21/portfolio-comparison"
+            }
+        }
+    },
+    {
+        "title": "Food Order!",
+        "shortDesc": "Food Order app to search, sort, filter, mark favourite Restaurant by name, location, and cuisines.",
+        "type": "Vanila JavaScript",
+        "techTags": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "image": "food-order.jpg",
+        "cta": {
+            "primary": {
+                "title": "Order Now",
+                "navlink": "https://felixfelicis555.github.io/JavaScript/Apps/Food%20Order/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/JavaScript/tree/main/Apps/Food%20Order"
+            }
+        }
+    },
+    {
+        "title": "Nested Comments",
+        "shortDesc": "Nested Comments is a prototype various social sites to add, delete, edit root or child level comments.",
+        "type": "Vanila JavaScript",
+        "techTags": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "image": "comment.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://felixfelicis555.github.io/JavaScript/Apps/Nested%20Comments/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/JavaScript/tree/main/Apps/Nested%20Comments"
+            }
+        }
+    },
+    {
+        "title": "Todo APP!",
+        "shortDesc": "Todo App built in vanilla Javascript having the capability of add, delete, edit, mark complete, and uncomplete to a todo item.",
+        "type": "Vanila JavaScript",
+        "techTags": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "image": "todo.png",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://felixfelicis555.github.io/JavaScript/Apps/Todo%20App%20MVC/"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/FelixFelicis555/JavaScript/tree/main/Apps/Todo%20App%20MVC"
+            }
+        }
+    },
+    {
+        "title": "Attendanc System using Face Recognition",
+        "shortDesc": "An application which took the image using CCTVs, recognize the person using Face Recognition. ",
+        "type": "Internship",
+        "techTags": [
+            "Python",
+            "OpenCV",
+            "PyQT",
+            "Numpy",
+            "Scipy",
+            "Sqlite"
+        ],
+        "image": "face1.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://github.com/umangg21/Attendance-Automation-System-using-Face-Detection-and-Recognition"
+            },
+            "secondary": null
+        }
+    },
+    {
+        "title": "Time Series Satellite Data Visualizer",
+        "shortDesc": "App to express the phenology by displaying Histogram data of the Time Series Images.",
+        "type": "Internship",
+        "techTags": [
+            "Python",
+            "PyQT",
+            "GDAL",
+            "Numpy",
+            "Matplotlib"
+        ],
+        "image": "barchart.jpg",
+        "cta": {
+            "primary": {
+                "title": "Preview",
+                "navlink": "https://www.youtube.com/watch?v=6Fizcg3U7Ss"
+            },
+            "secondary": {
+                "title": "Code",
+                "navlink": "https://github.com/umangg21/Time_Series_Satellite_Data_Visualizer/"
+            }
+        }
+    }
+]

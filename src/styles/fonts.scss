@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Avenir Next';
+    src: local('Arvo'), url('../fonts/400.ttf') format('woff2');
+    font-weight: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: local('Arvo'), url('../fonts/500.ttf') format('woff2');
+    font-weight: 500;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: local('Arvo'), url('../fonts/600.ttf') format('woff2');
+    font-weight: 600;
+    font-display: fallback;
+}
+
+.fs {
+    &-14 {
+        font-size: 14px;
+    }
+    &-24 {
+        font-size: 14px;
+    }
+    &-100 {
+        font-size: 100px;
+    }
+    &-140 {
+        font-size: 140px;
+    }
+}
+
+.fw {
+    &-400 {
+        font-weight: 400;
+    }
+    &-500 {
+        font-size: 500;
+    }
+    &-600 {
+        font-size: 600;
+    }
+}
+
+.text {
+    &-white {
+        color: white;
+    }
+}
+
+.text {
+    &-right {
+        text-align: right;
+    }
+}
+
+.ls- {
+    &-3 {
+        letter-spacing: 3px;
+    }
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
